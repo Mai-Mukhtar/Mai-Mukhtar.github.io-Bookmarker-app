@@ -1,0 +1,17 @@
+#heading{
+    font-size: 1.17em;
+    color: #aaa;
+}
+.footerContent{
+    color: #aaa;
+}
+.clr{
+    clear: both;
+}
+
+#alertName1{
+    display: none;
+}
+#alertName2{
+    display: none;
+}
